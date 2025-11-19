@@ -96,16 +96,17 @@ By focusing on predictive insights, banks can shift from **mass outreach → pre
 
 ---
 
-## 🗂️ **Repository Structure**
-📁 Bank-Marketing-SASViya-ML
-│
+## 🗂️ Repository Structure
+
+```
+Bank-Marketing-SASViya-ML/
 ├── README.md
 ├── presentation.pdf
-│
-├── 📁 visuals/
-      ├── key_factors.png
-      ├── sas_pipeline_diagram.png
-      └── lift_gradient_boosting.png
+└── visuals/
+    ├── key_factors.png
+    ├── sas_pipeline_diagram.png
+    └── lift_gradient_boosting.png
+```
 
 ---
 
@@ -130,6 +131,4 @@ Data Analyst
 🔗 **LinkedIn:** https://www.linkedin.com/in/akant-bhola/  
 
 ---
-
-
 
